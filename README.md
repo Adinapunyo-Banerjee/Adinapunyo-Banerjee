@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adinapunyo-Banerjee
-- 👀 I’m interested in Web Technology, Cryptography, DSA and everything that requires a little creativity :)
+- 👀 I’m interested in Web Technology, Deep Learning, DSA and everything that requires a little creativity :)
 - 🌱 I’m currently learning wagtail.io, django, public key cryptography and practicing DSA ofcourse...
 - 💞️ I’m trying to contribulte to wagtail.io
 - 📫 How to reach me - linkedin, instagram, facebook, github (ofc)
